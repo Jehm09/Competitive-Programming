@@ -5,11 +5,11 @@ import java.util.HashMap;
 import java.util.Scanner;
 /**
  * Solution
+ * UVa 100
+ * https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge&page=show_problem&problem=36
  * @author Joe Hernandez
  */
 
-//Uva 100
-//https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge&page=show_problem&problem=36
 public class The3nPlus1problem {
 	
 	public static void main(String[] args) throws IOException {

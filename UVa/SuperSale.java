@@ -1,11 +1,11 @@
 import java.util.Scanner;
 /**
  * Solution
+ * UVa 10130
+ * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1071
  * @author Joe Hernandez
  */
 
-//Uva 10130
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1071
 public class SuperSale {
 
 	public static void main(String[] args) {

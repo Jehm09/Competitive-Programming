@@ -3,11 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * UVa 10405
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1346
  * @author Joe Hernandez
  */
 
-//Uva 10405
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1346
 public class LongestCommonSubsequence {
 	
 	//Longest Common Subsequence

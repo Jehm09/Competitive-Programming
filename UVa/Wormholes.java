@@ -6,10 +6,12 @@ import java.util.Set;
 import java.io.*;
 
 /**
+ * Solution
  * UVa 558
  * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499
  * @author Joe
  */
+
 public class Wormholes {
 	
 	public static void main(String[] args) throws IOException{

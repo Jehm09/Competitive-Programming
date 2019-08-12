@@ -2,11 +2,11 @@ import java.util.Scanner;
 import java.util.Stack;;
 /**
  * Solution
+ * UVa 514
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455
  * @author Joe Hernandez
  */
 
-//Uva 514
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455
 public class Rails {
 
 	public static void main(String[] args) {

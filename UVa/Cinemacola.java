@@ -5,11 +5,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 /**
  * Solution
+ * Uva 12516
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3961
  * @author Joe Hernandez
  */
 
-//Uva 12516
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3961
 public class Cinemacola {
 
 	public static void main(String[] args) throws IOException {

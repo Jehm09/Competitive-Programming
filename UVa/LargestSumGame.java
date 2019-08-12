@@ -3,11 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * UVa 12640
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4388
  * @author Joe Hernandez
  */
 
-//Uva 12640
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4388
 public class LargestSumGame {
 
 	public static void main(String[] args) throws IOException {

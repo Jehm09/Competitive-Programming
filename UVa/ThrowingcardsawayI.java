@@ -3,11 +3,11 @@ import java.util.Queue;
 import java.util.Scanner;
 /**
  * Solution
+ * UVa 10935
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1876
  * @author Joe Hernandez
  */
 
-//Uva 10935
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1876
 public class ThrowingcardsawayI {
 
 	public static void main(String[] args) {

@@ -2,10 +2,12 @@ import java.io.*;
 import java.util.Stack;
 
 /**
- * @author Joe
- * Uva 11111
+ * Solution
+ * UVa 11111
  * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2052
+ * @author Joe
  */
+
 public class GeneralizedMatrioshkas {
 
 	public static void main(String[] args) throws IOException{

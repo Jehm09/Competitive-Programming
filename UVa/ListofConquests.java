@@ -5,11 +5,11 @@ import java.util.Iterator;
 import java.util.TreeMap;
 /**
  * Solution
+ * UVa 1361
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1361
  * @author Joe Hernandez
  */
 
-//Uva 1361
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1361
 public class ListofConquests {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader bReader = new BufferedReader(new InputStreamReader(System.in));

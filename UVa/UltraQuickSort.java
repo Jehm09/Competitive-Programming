@@ -1,11 +1,11 @@
 import java.util.Scanner;
 /**
  * Solution
+ * UVa 10810
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1751
  * @author Joe Hernandez
  */
 
-//Uva 10810
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1751
 public class UltraQuickSort {
     static int[] array;
     static long swaps = 0;
@@ -56,7 +56,8 @@ public class UltraQuickSort {
     	for (int i = 0; i < arr.length; i++) {
     		if (j1 < right1 && j2 < right2 && array[j2]<array[j1]) {
 				arr[i] = array[j2];
-                swaps += j2 - left1 - i;
+				swaps++;
+//                swaps += j2 - left1 - i;
 				j2++;
 			}
     		else if (j1 < right1 && j2 < right2 && array[j2]>array[j1]) {

@@ -3,11 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * UVa 10465
+ * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1406
  * @author Joe Hernandez
  */
 
-//Uva 10465
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1406
 public class HomerSimpson {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

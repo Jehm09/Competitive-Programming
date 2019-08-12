@@ -1,11 +1,11 @@
 import java.util.*;
 /**
  * Solution
+ * UVa 673
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=614
  * @author Joe Hernandez
  */
 
-//Uva 673
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=614
 public class ParenthesesBalance{
 	
 	public static void main(String []argh)

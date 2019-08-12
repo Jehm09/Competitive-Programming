@@ -2,11 +2,11 @@ import java.io.*;
 import java.util.*;
 /**
  * Solution
+ * UVa 10954
+ * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1895
  * @author Joe Hernandez
  */
 
-//Uva 10954
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1895
 public class AddAll {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

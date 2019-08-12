@@ -1,11 +1,11 @@
 import java.util.Scanner;
 /**
  * Solution
+ * UVa 108
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44
  * @author Joe Hernandez
  */
 
-//Uva 108
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44
 public class MaximumSum {
 	
 	//Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D

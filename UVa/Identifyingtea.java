@@ -3,11 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * UVa 13012
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4900
  * @author Joe Hernandez
  */
 
-//Uva 13012
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4900
 public class Identifyingtea {
 
 	public static void main(String[] args) throws IOException {

@@ -3,11 +3,11 @@ import java.io.*;
 import java.text.*;
 /**
  * Solution
+ * UVa 10226
+ * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167
  * @author Joe Hernandez
  */
 
-//Uva 10226
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167
 public class HardwoodSpecies{
 	
 	public static void main(String[] args) throws IOException {

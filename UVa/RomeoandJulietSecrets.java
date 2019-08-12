@@ -1,11 +1,11 @@
 import java.io.*;
 /**
  * Solution
+ * UVa 13258
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5181
  * @author Joe Hernandez
  */
 
-//Uva 13258
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5181
 public class RomeoandJulietSecrets {
 
 	static int[] pre;

@@ -2,8 +2,14 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Stack;
 
-//Uva 1062
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3503
+/**
+ * Solution
+ * UVa 1062
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3503
+ * @author Joe
+ *
+ */
+
 public class Containers {
 
 	public static void main(String[] args) throws IOException{

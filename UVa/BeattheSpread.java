@@ -3,11 +3,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * UVa 1753
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1753
  * @author Joe Hernandez
  */
 
-//Uva 1753
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1753
+//
+//
 public class BeattheSpread {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

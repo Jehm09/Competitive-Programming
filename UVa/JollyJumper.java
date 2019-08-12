@@ -2,11 +2,11 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 /**
  * Solution
+ * UVa 10038
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979
  * @author Joe Hernandez
  */
 
-//Uva 10038
-//https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979
 public class JollyJumper {
 
 	public static void main(String[] args) {

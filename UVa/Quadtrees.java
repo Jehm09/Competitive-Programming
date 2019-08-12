@@ -3,12 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * Arbol N ario
+ * UVa 233
+ * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=233
  * @author Joe Hernandez
  */
 
-//Arbol N ario
-//Uva 233
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=233
 public class Quadtrees {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader bReader = new BufferedReader(new InputStreamReader(System.in));

@@ -3,11 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * Solution
+ * UVa 514
+ * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=514
  * @author Joe Hernandez
  */
 
-//Uva 514
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=514
 public class TheSnail {
 
 	public static void main(String[] args) throws IOException {

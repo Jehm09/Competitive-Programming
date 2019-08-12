@@ -2,10 +2,12 @@ import java.io.*;
 import java.util.*;
 
 /**
+ * Solution
+ * Uva 11286
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2261
  * @author Joe
- *	Uva 11286
- *	https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2261
  */
+
 public class Conformity {
 
 	public static void main(String[] args) throws IOException{
