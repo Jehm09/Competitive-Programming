@@ -6,6 +6,7 @@
 // #include <bits/stdc++.h>
 
 #define LL long long
+#define ULL unsigned LL
 #define INF 0x7fffffff
 #define INFLL 0x7FFFFFFFFFFFFFFF
 #define lenA(ar) sizeof(ar)/sizeof(*ar)
@@ -19,7 +20,7 @@ using namespace std;
 
 /**
  * Solution
- * https://codeforces.com/problemset/problem/59/A
+ * https://codeforces.com/problemset/problem/439/B
  * @author Joe
  */
 
@@ -28,26 +29,27 @@ int main() {
         freopen("in.txt", "r", stdin);
         freopen("out.txt", "w", stdout);
     #endif
-    char string[101];
-    cin >> string;
-    int n = strlen(string);
-    int U = 0, L = 0;
 
+    LL n, x, cs[(int) 1e5];
+    cin >> n >> x;
     rep(i, 0, n) {
-        if(islower(string[i])) {
-            L++;
-        } else {
-            U++;
-        } 
+        cin >> cs[i];
     }
 
-    if(L == U) {
-        cout << strlwr(string) << endl;
-    } else if(L > U) {
-        cout << strlwr(string) << endl;
-    } else {
-        cout << strupr(string) << endl;
+    sort(cs, cs+n);
+
+    ULL rst = 0;
+
+    // cout << sizeof(rst);
+    rep(i, 0, n) {
+        rst += cs[i] * x;
+
+        if(x > 1) {
+            x--;
+        }
     }
-    
+
+    cout << rst << endl;
+
     return 0;
 }

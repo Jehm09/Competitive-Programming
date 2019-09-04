@@ -19,7 +19,7 @@ using namespace std;
 
 /**
  * Solution
- * https://codeforces.com/problemset/problem/59/A
+ * https://codeforces.com/problemset/problem/431/A
  * @author Joe
  */
 
@@ -28,26 +28,23 @@ int main() {
         freopen("in.txt", "r", stdin);
         freopen("out.txt", "w", stdout);
     #endif
-    char string[101];
-    cin >> string;
-    int n = strlen(string);
-    int U = 0, L = 0;
+    int a1, a2, a3, a4, rst = 0;
+    char s[(int) 1e5+1];
+    cin >> a1 >> a2 >> a3 >> a4 >> s;
 
-    rep(i, 0, n) {
-        if(islower(string[i])) {
-            L++;
-        } else {
-            U++;
-        } 
+    rep(i, 0 , strlen(s)) {
+        if(s[i] == '1'){
+            rst += a1;
+        } else if(s[i] == '2') {
+            rst += a2;
+        } else if(s[i] == '3') {
+            rst += a3;
+        } else{
+            rst += a4;
+        }
     }
 
-    if(L == U) {
-        cout << strlwr(string) << endl;
-    } else if(L > U) {
-        cout << strlwr(string) << endl;
-    } else {
-        cout << strupr(string) << endl;
-    }
-    
+    cout << rst << endl;
+
     return 0;
 }
